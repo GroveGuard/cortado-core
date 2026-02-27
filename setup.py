@@ -49,7 +49,7 @@ setup(
     install_requires=[
         "matplotlib>=3.8.0",
         "cycler",
-        "antlr4-python3-runtime>=4.13",
+        "antlr4-python3-runtime==4.7.2",
         "networkx>=3.2",
         "pm4py==2.4.1",
         "ortools",
