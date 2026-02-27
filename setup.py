@@ -54,7 +54,7 @@ setup(
         "pm4py==2.4.1",
         "ortools",
         "tqdm==4.64.1",
-        "scikit-learn==1.1.3",
+        "scikit-learn>=1.3.1",
         "zss==1.2.0",
         "numpy>=1.21.2,<2.0.0",
     ],
